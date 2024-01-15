@@ -1,2 +1,2 @@
 # kliker
-if u klik button will move 
+if u klik then button will move 
